@@ -1,6 +1,6 @@
 package shoppingCart;
 
-public class User extends DBOperations {
+public class User extends UserDBO {
 	private int id;
 	private String name;
 	private String username;
